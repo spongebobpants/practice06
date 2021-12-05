@@ -2,8 +2,8 @@ package com.javaex.ex03;
 
 public class Shape {
 	//field
-	private String fillColor;
-	private String lineColor;
+	public String fillColor;
+	public String lineColor;
 	
 	//constructor
 	public Shape() {}

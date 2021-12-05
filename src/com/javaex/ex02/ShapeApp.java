@@ -16,6 +16,8 @@ public class ShapeApp {
 		Shape t3 = new Triangle("빨강", "빨강", 15, 15);
 		System.out.println("================");
 		
+		
+		
 	}
 
 }
